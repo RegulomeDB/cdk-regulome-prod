@@ -1,2 +1,2 @@
 # cdk-regulome-prod
-cdk-regulome-prod
+Regulome network setup
